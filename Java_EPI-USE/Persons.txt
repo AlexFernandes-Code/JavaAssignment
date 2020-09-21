@@ -1,0 +1,5 @@
+1|John|Smith|20-02-2020|Manager|0|100
+2|Jane|Doe|16-06-2020|Employee|1|1000
+3|Jim|Bean|20-10-2020|Employee|1|200
+4|Roger|Wilco|01-01-2019|Trainee|3|100
+5|Susan|Roe|25-05-2020|Trainee|3|100
